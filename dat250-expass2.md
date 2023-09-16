@@ -1,4 +1,4 @@
-name: Mahmod Ahmed Mohamed 
+name: Mahmod Ahmed Mohamed
 student number: 798184
 
 ### Where is the database? Explain the used database and how/when it runs.
