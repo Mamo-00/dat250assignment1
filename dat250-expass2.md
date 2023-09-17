@@ -64,5 +64,5 @@ or what format 2 or 3 is.
 The only thing I can do is figure out the database schema by looking at the create or join statement in the sql
 that shows up when i turn the show_sql attribute to true.
 
-### any pending issues with this assignment that you did not manage to solve?
+### Any pending issues with this assignment that you did not manage to solve?
 The only issues are the ones I explained in the previous question about inspecting the database. 
