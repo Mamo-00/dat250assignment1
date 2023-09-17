@@ -51,7 +51,7 @@ Other difficulties was establishing the correct relations between the tables ins
 right type of relationship and whether to use join column or not, but as I was coding it became clearer and clearer
 for me.
 
-### an explanation of how you inspected the database tables and what tables were created.
+### An explanation of how you inspected the database tables and what tables were created.
 I was not able to inspect the database as I had trouble figuring out how. The Database tab in intelliJ
 was not able to connect to the data source and I was getting this error:
 ```
