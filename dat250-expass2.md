@@ -66,3 +66,7 @@ that shows up when i turn the show_sql attribute to true.
 
 ### Any pending issues with this assignment that you did not manage to solve?
 The only issues are the ones I explained in the previous question about inspecting the database. 
+
+### Below here is the link to the repo containing the code for this exercise:
+
+https://github.com/Mamo-00/Assignment2.git
