@@ -65,8 +65,8 @@ that is an object containing information about the item such as:
 - the average price and average quantity
 
 ### Problems that I encountered
-THe biggest problem that I encountered is running the map-reduce function in mongosh in the Compass, which is why you will notice the   
-screenshots look different because some of them are from the mongo shell in compass and the map reduce ones are form the command line
+The biggest problem that I encountered is running the map-reduce function in mongosh in the MongoDB Compass, which is why you will notice the   
+screenshots look different because some of them are from the mongo shell in compass and the map reduce ones are from the command line
 
 
 
