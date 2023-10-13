@@ -1,5 +1,5 @@
 ### Changes I made to the code from expass 4 to make the frontend code not have cors issues with the backend
-![image](https://github.com/Mamo-00/dat250assignment1/assets/60385659/0b060b14-86a3-4628-a641-9da832c05e10)
+![image](https://github.com/Mamo-00/dat250assignment1/assets/60385659/a46d96b2-8709-4d9c-ae94-6d3da7a15270)
 
 ### The angular code
 https://github.com/Mamo-00/dat250-expass6.git
